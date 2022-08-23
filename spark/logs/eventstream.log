@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|  Lyn.Abram@test.com| -1.5|
+|Jane.Howard@test.com|-17.0|
+|Senthil.Sanchez@t...| 12.0|
+|Ben.Anderson@test...| 17.0|
+|Angie.Davis@test.com|  9.5|
+|Travis.Jones@test...| -5.5|
+|Eric.Habschied@te...| -5.5|
+|John.Spencer@test...| -3.5|
+|Sarah.Doshi@test.com| -1.5|
+|Trevor.Jones@test...| -3.0|
+| Lyn.Khatib@test.com| -2.0|
+|Neeraj.Hansen@tes...| -2.0|
+|Sarah.Clark@test.com| -2.0|
+|Senthil.Abram@tes...| -3.5|
+|Senthil.Habschied...| -4.5|
+| Dan.Hansen@test.com| -1.5|
+|Larry.Howard@test...| 18.5|
+|Ashley.Hansen@tes...| -1.0|
+|Travis.Ahmed@test...|-41.5|
+|Jerry.Anderson@te...|-22.5|
++--------------------+-----+
+only showing top 20 rows
+
